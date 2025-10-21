@@ -68,7 +68,7 @@ void loop() {
 ![image](https://res.cloudinary.com/dtxiyeitw/image/upload/v1761001610/imagem_2025-10-20_200648912_edbcp0.png)
 
 ## link do projeto para simular:
-
+https://www.tinkercad.com/things/9rxZ43Op88i-projeto-semana2?sharecode=TJYV8Jsnis1RmZjD7Y0aKCZnyJPeZdX6UZXUCCo8nG4
 
 # Conclusão:
 * O circuito RC demonstrou claramente o comportamento de armazenamento e liberação de energia elétrica em um capacitor.
